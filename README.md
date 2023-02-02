@@ -160,6 +160,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 - ### **R**
 
 - ### **S**
+-  [Shivam Kumar](https://github.com/Bharadwajshivam28)
 
 - ### **T**
 
