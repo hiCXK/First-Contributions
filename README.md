@@ -123,6 +123,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
    - [Aditya Pandey](https://github.com/adityyaa-10-hash)
    - [Akhilesh](https://github.com/Akki9015)
+   - [Abhinav Pratap](https://github.com/pabhi4881)
 
 - ### **B**
 
