@@ -154,6 +154,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 - ### **O**
 
 - ### **P**
+- [Praduman Prajapati](https://github.com/Mr-Sunglasses)
 
 - ### **Q**
 
